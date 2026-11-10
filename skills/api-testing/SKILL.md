@@ -1,4 +1,3 @@
-
 ---
 name: api-testing
 description: Guidelines for testing Express REST APIs with Node.js.
